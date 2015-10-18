@@ -14,6 +14,7 @@
 var splitLoot = function(amount, hours) {
     // Divide an invoice evenly amongst staff depending on how many hours they
     // worked on a project.
+    
     var totalHours = 0;
     for (var member in hours) {
         totalHours += hours[member];
