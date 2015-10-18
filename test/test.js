@@ -1,8 +1,12 @@
-var assert = require('assert');
-describe('', function() {
-  describe('', function() {
-    it('should....', function() {
-      assert.equal();
-    });
-  });
-}); 
+var splitLoot = require('./split-loot');
+
+describe('Loot Splitter', function() {
+
+});
+
+
+
+
+
+
+
